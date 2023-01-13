@@ -1,0 +1,19 @@
+{
+    "config_path": 
+        {
+            "workera": "E:\\projects\\transactions\\datasource\\json\\fanout\\a.json",
+            "workerb": "E:\\projects\\transactions\\datasource\\json\\fanout\\b.json",
+            "workerc": "E:\\projects\\transactions\\datasource\\json\\fanout\\c.json",
+            "workerd": "E:\\projects\\transactions\\datasource\\json\\fanout\\d.json"
+        },
+    "config_db": 
+        {
+            "postgre_user": "loan",
+            "postgre_password": "loan",
+            "postgre_host": "localhost",
+            "postgre_port": "5433",
+            "postgre_schema": "loan",
+            "postgre_sslmode": "disable"
+        }
+}
+
